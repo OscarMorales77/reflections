@@ -5,3 +5,7 @@ A ".git" file is created that contains metadata about the current directory.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area allows you to group related files into a single logical commit. From the SA, you commit to a repository. The working diretory is where you have are you files including the ".git file"
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+ 
+ As stated in the video, a branch can be used as an experimental branch like adding a new language while still maintaing the orginal "master" branch for easy accesess.
