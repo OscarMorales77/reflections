@@ -16,4 +16,9 @@ It allows you to "birds eye" view of the structure.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-You combine the differenc changes in the code into a singe branch.
+Merging facilitates collaborative working with code. Teams can work with multiple branches and "merge" the branches once they are complete. A diagram allows a birds eye view of the overall structure for the commits and branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+If there are no conflicts automatic merging will work. However, if conflitcs exist merging will not work.
+
